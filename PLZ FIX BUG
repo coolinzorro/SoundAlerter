@@ -1,0 +1,9 @@
+[2017/06/20 19:17:15-14-x1]: 
+SoundAlerter-v1.0\SoundAlerter.lua:1353: attempt to index local 'list' (a nil value)
+SoundAlerter-v1.0\SoundAlerter.lua:1606: in function `?'
+CallbackHandler-1.0\CallbackHandler-1.0.lua:146: in function <...ber\libs\CallbackHandler-1.0\CallbackHandler-1.0.lua:146>
+<string>:"safecall Dispatcher[15]":4: in function <[string "safecall Dispatcher[15]"]:4>
+<in C code>: ?
+<string>:"safecall Dispatcher[15]":13: in function `?'
+CallbackHandler-1.0\CallbackHandler-1.0.lua:91: in function `Fire'
+AceEvent-3.0\AceEvent-3.0.lua:70: in function <...dOns\SoundAlerter\libs\AceEvent-3.0\AceEvent-3.0.lua:69>
